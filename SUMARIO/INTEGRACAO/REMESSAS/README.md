@@ -13,7 +13,7 @@ Para integração das remessas são utilizados os seguintes endpoints:
 Este endpoint é utilizado para inserir remessas. Para seu funcionamento, é necessário que os dados enviados JSON/Body sejam um Array de objetos do tipo remessa, que está de acordo com o formato da Way Data.
 Segue Exemplo:
 
-<img src="../../../assets/put_remessa_json.png" alt="Put Remessa">
+![](/assets/put_remessa_json.png)
 
 ___
 ##### Buscar remessas [GET]

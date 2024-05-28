@@ -10,7 +10,7 @@ Esse endpoint tem a função de importar clientes do **ERP para a Plataforma da 
 
 Para seu funcionamento, é necessário o envio de um cliente no JSON/Body, que deve seguir o padrão da Way Data, exemplificado abaixo:
 
-<img src="../../../assets/put_cliente_json.png" alt="Put Cliente">
+![](/assets/put_cliente_json.png)
 
 ___
 ##### Atualizar cliente [PATCH]
